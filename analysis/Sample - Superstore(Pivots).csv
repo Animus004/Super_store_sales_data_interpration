@@ -1,0 +1,25 @@
+Category,Sum of Profit,,,,Region,Sum of Sales,Sum of Profit,,Sub-Category,Sum of Sales,Sum of Profit,Profit margin
+Furniture,18451.2728,,,,Central,501239.8908,39706.3625,,Accessories,167380.318,41936.6357,25.05%
+Office Supplies,122490.8008,,,,East,678781.24,91522.78,,Appliances,107532.161,18138.0054,16.87%
+Technology,145454.9481,,,,South,391721.905,46749.4303,,Art,27118.792,6527.787,24.07%
+Grand Total,286397.0217,,,,West,725457.8245,108418.4489,,Binders,203412.733,30221.7633,14.86%
+,,,,,Grand Total,2297200.86,286397.0217,,Bookcases,114879.9963,-3472.556,-3.02%
+,,,,,,,,,Chairs,328449.103,26590.1663,8.10%
+,,,,,Region,Category,Sum of Discount,Sum of Profit,Copiers,149528.03,55617.8249,37.20%
+Months,Sum of Sales,Product Name,Sum of Sales,,Central,Furniture,143.04,-2871.0494,Envelopes,16476.402,6964.1767,42.27%
+January,94924.8356,Canon imageCLASS 2200 Advanced Copier,61599.824,,,Office Supplies,359.4,8879.9799,Fasteners,3024.28,949.5182,31.40%
+February,59751.2514,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,27453.384,,,Technology,55.9,33697.432,Furnishings,91705.164,13059.1436,14.24%
+March,205005.4888,Cisco TelePresence System EX90 Videoconferencing Unit,22638.48,,Central Total,,558.34,39706.3625,Labels,12486.312,5546.254,44.42%
+April,137762.1286,HON 5400 Series Task Chairs for Big and Tall,21870.576,,East,Furniture,92.6,3046.1658,Machines,189238.631,3384.7569,1.79%
+May,155028.8117,GBC DocuBind TL300 Electric Binding System,19823.479,,,Office Supplies,244.7,41014.5791,Paper,78479.206,34053.5693,43.39%
+June,152718.6793,Grand Total,153385.743,,,Technology,76.7,47462.0351,Phones,330007.054,44515.7306,13.49%
+July,147238.097,,,,East Total,,414,91522.78,Storage,223843.608,21278.8264,9.51%
+August,159044.063,,,,South,Furniture,40.35,6771.2061,Supplies,46673.538,-1189.0995,-2.55%
+September,307649.9457,,,,,Office Supplies,166.6,19986.3928,Tables,206965.532,-17725.4811,-8.56%
+October,200322.9847,,,,,Technology,31.6,19991.8314,Grand Total,2297200.86,286397.0217,
+November,352461.071,,,,South Total,,238.55,46749.4303,,,,
+December,325293.5035,,,,West,Furniture,92.9,11504.9503,,,,
+Grand Total,2297200.86,,,,,Office Supplies,177.1,52609.849,,,,
+,,,,,,Technology,80.2,44303.6496,,,,
+,,,,,West Total,,350.2,108418.4489,,,,
+,,,,,Grand Total,,1561.09,286397.0217,,,,
